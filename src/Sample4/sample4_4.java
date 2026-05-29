@@ -1,5 +1,5 @@
 package Sample4;
-// do-while について
+// do-while について(while との違い)
 public class sample4_4 {
     public static void main(String[] args){
         int i = 5;

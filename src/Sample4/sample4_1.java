@@ -13,8 +13,7 @@ public class sample4_1 {
         num = 0;
         while (num < 5) {
             System.out.println(num);
-//            num--; // 実行しないで！
-            num++;
+            num--; // 実行しないで！
         }
 //        一見無限ループに見えないが、
 //        条件）5 より小さい
